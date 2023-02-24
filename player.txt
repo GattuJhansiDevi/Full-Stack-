@@ -1,4 +1,4 @@
 
-kareena: HHHHHHTHTH
-jhansi: HHHHTHHTTH
-Winner: kareena
+player 1: HHHHHHTHTH
+player 2: HHHHTHHTTH
+Winner: player 1
